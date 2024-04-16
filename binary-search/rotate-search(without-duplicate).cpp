@@ -1,7 +1,6 @@
 // To find a number in a rotated sorted array
 #include <iostream>
 #include <vector>
-#include <map>
 #include <climits>
 #include <algorithm>
 using namespace std;
