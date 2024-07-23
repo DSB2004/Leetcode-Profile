@@ -18,11 +18,6 @@ TreeNode *util(vector<int> preorder, int &index, int limit)
     return node;
 }
 
-// TreeNode *preOrderTree(vector<int> &preOrder)
-// {
-//     int i = 0;
-//     return util(preOrder, i, INT_MAX);
-// }
 
 TreeNode *bstFromPreorder(vector<int> &preorder)
 {
